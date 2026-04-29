@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/27223646/README.md) 
 # 🪚 CHARTSAW
-### Gareth Soloway PPT Methodology Stock Analyzer
+### PPT Methodology Stock Analyzer
 
 Live market data powered by Finnhub. Deploy in under 10 minutes.
 
