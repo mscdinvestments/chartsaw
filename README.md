@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27223646/README.md)
+[README.md](https://github.com/user-attachments/files/27223646/README.md) 
 # 🪚 CHARTSAW
 ### Gareth Soloway PPT Methodology Stock Analyzer
 
